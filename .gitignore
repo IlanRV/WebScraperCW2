@@ -7,4 +7,3 @@ htmlcov/
 .venv/
 venv/
 *.pyc
-data/index.json
